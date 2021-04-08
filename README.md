@@ -4,10 +4,12 @@
 
 
 
-- 👋 Hi, I’m Devang Shah , you can follow me on Twitter [@devang_shah](https://twitter.com/devang_shah) or on [Linkedin](https://www.linkedin.com/in/devang-d-shah/)
+
+<!--- you can follow me on Twitter [@devang_shah](https://twitter.com/devang_shah) or on [Linkedin](https://www.linkedin.com/in/devang-d-shah/)
+-->
 
 ## 👀 What is this page about ? 
-- This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style
+- 👋 Hi, There.I’m Devang Shah.This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style.
 
 
 ### 🧱 The team ! That's you !
