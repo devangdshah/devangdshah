@@ -4,7 +4,7 @@
 
 
 
-- 👋 Hi, I’m @devangdshah , you can follow me on Twitter [@devang_shah](https://twitter.com/devang_shah) or on [Linkedin](https://www.linkedin.com/in/devang-d-shah/)
+- 👋 Hi, I’m Devang Shah , you can follow me on Twitter [@devang_shah](https://twitter.com/devang_shah) or on [Linkedin](https://www.linkedin.com/in/devang-d-shah/)
 
 ## 👀 What is this page about ? 
 - This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style
@@ -43,9 +43,6 @@ If I describe my ideal for our team and each person on it, it is that we:
 - Based on project, I may have meeting with the teams in other timezone and I prefer to have 2 hours of FOCUS time 2-3 times a week to focus on _Important but not urgent work_
 - I am flexible in moving the meeting around to make time for urgent things.So just let me know.  
 
-
-- 💞️ I’m looking to collaborate on topics related to engineering management
-- 📫 How to reach me ...
 
 <!---
 devangdshah/devangdshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
