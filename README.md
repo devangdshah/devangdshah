@@ -10,9 +10,9 @@
 - This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style
 
 
-### 🧱 The team ! That you !
+### 🧱 The team ! That's you !
 If I describe my ideal for our team and each person on it, it is that we:
-- Get the things done. Not just anything but the onces with impact
+- Get the things done. Not just anything but the onces with customer impact
 - Genuinely care for each other 
 - Own the things
 - Ask lots of what and why/Dive deep
