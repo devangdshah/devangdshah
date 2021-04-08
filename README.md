@@ -19,6 +19,14 @@ If I describe my ideal for our team and each person on it, it is that we:
 - Keep learning
 - Communicate clearly
 
+
+### 🎯 My Goals
+- To empower you as a leader to figure out what you need to do , how to do it and get it done !   
+- To have cler team and project tenets which can act a guiding principals 
+- To ptovide you enough context to understand your priority and focus over the next quarter
+- To have clear roadmap with product/business partnership
+
+
 ### 🌱**1:1s(One-on-Ones)**
 - Importance:  1:1s are super important to me as it dedicated time slot for us to connect/talk on anything and everything which YOU want to talk. Its about YOU and not about me ! 
 - Flexible: We can adjust schedule & format as needed. If you prefere walk and talk 1:1 during sunny day or over coffee or in office conference room or prefer second half instead of first! I am cool with whatever options works best for you.  
