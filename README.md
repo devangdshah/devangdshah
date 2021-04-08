@@ -5,7 +5,8 @@
 
 
 - 👋 Hi, I’m @devangdshah , you can follow me on Twitter [@devang_shah](https://twitter.com/devang_shah) or on [Linkedin](https://www.linkedin.com/in/devang-d-shah/)
-- 👀 What is this page about ? This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style
+- ## 👀 What is this page about ? 
+- This page provides info on what to expect if I am your leader. This is not an extensive list by any means but this provides enough information about my management style
 - ### 🌱1:1s(One-on-Ones)
 - Importance:  1:1 are super important to me as it dedicated time slot for us to talk on anything and everythign which YOU want to talk. Its about you and not about me ! 
 - Flexible: We can change and shif the schedule as needed. If you prefere walk and talk 1:1 during sunny day or over coffee or in office conference room or prefer second half! I am cool with whatever option works best for you.  
