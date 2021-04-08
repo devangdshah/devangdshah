@@ -39,6 +39,14 @@ If I describe my ideal for our team and each person on it, it is that we:
 - I will provide eary and often feedback to course correct. 
 - I will provide Red/Orange/Green indicator. While Green and Red are clear indicators. Oranage means one or mor behavious/improvements if left unchecked can cause serious poblems down the line.
 
+
+### 📝 Hiring 
+What I look for when hiring new engineers/leaders
+- Ownership/Can do attitude  
+- Required skills and ability to go over learning curve faster  
+- Culture/Team fit Would this person raises the existing bar ( better then 50% of existing folks) Communication/Flexibility 
+- Leadership Principal mostly applicable for role (I.e Right a lot)
+
 ### 📅 How to interpret my calendar ?
 - Based on project, I may have meeting with the teams in other timezone and I prefer to have 2 hours of FOCUS time 2-3 times a week to focus on _Important but not urgent work_
 - I am flexible in moving the meeting around to make time for urgent things.So just let me know.  
