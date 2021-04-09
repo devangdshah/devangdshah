@@ -27,6 +27,9 @@ If I describe my ideal for our team and each person on it, it is that we:
 - To have cler team and project tenets which can act a guiding principals 
 - To ptovide you enough context to understand your priority and focus over the next quarter
 - To have clear roadmap with product/business partnership
+- To create a circle of safety for the team.
+- To deeply understand your motivations and your frustrations
+
 
 
 ### 🌱**1:1s(One-on-Ones)**
