@@ -23,17 +23,19 @@ If I describe my ideal for our team and each person on it, it is that we:
 - To have cler team and project tenets which can act as a guiding principals 
 - To provide you enough context to understand your priority and focus over the next quarter
 - To have clear roadmap with product/business partnership
-- To create a circle of safety for the team.
+- To earn team trust which will allow to to create a circle of safety for the team.
 - To deeply understand your motivations and your frustrations
 - To Stay connected and being accessible.
+- To provide coaching ( not provide you direct solutions but help you figure out the solutions with GROW model)
 
 ### 🌱**1:1s(One-on-Ones)**
-- Importance:  1:1s are super important to me as it dedicated time slot for us to connect/talk on anything and everything which YOU want to talk. Its about YOU and not about me ! 
-- Flexible: We can adjust schedule & format as needed. If you prefere walk and talk 1:1 during sunny day or over coffee or in office conference room or prefer second half instead of first! I am cool with whatever options works best for you.  
-- What it is not: These meetngs are not a status report meetings unless you want to talk on this about it.
+- Importance:  1:1s are super important to me as it dedicated time slot for us to connect/talk on anything and everything which YOU want to talk. Its about YOU and not about me ! Its dedicated time for us to build relationship and earn each others trust.
+- Agenda: You as an employee will set the agenda and will cover your items/topics first. My topics comes second.
+- What it is not: These meetngs are not a status report meetings.
+- What is  : to discuss a. your development  b. future expectations c. goal , progress & obstacles d. current/Previous 1:1 action items d. roadblocks/support needed/soft escalations e.lessons learned.
 - Urgency: For any pressing needs, do not wait for 1:1 
-- Changes: Will provide updates (if any) on changes which could potentially impact you. 
-
+- Flexible: We can adjust schedule & format as needed.Let me know so that I can reschedule accordingly. 
+- 
 ### 💯 Personal performance 
 - You will never have surprise during performance review time. 
 - I will provide eary and often feedback to course correct. 
