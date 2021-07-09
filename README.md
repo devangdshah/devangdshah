@@ -35,7 +35,7 @@ If I describe my ideal for our team and each person on it, it is that we:
 - What is  : to discuss a. your development  b. future expectations c. goal , progress & obstacles d. current/Previous 1:1 action items d. roadblocks/support needed/soft escalations e.lessons learned.
 - Urgency: For any pressing needs, do not wait for 1:1 
 - Flexible: We can adjust schedule & format as needed.Let me know so that I can reschedule accordingly. 
-- 
+
 ### 💯 Personal performance 
 - You will never have surprise during performance review time. 
 - I will provide eary and often feedback to course correct. 
