@@ -30,7 +30,7 @@ If I describe my ideal for our team and each person on it, it is that we:
 
 ### 🌱**1:1s(One-on-Ones)**
 - Importance:  1:1s are super important to me as it dedicated time slot for us to connect/talk on anything and everything which YOU want to talk. Its about YOU and not about me ! Its dedicated time for us to build relationship and earn each others trust.
-- Agenda: You as an employee will set the agenda and will cover your items/topics first. My topics comes second.
+- Agenda: You as an employee will set the agenda and will cover your items/topics first.Prepare the agenda ahead of time for effective 1:1.  My topics comes second.
 - What it is not: These meetngs are not a status report meetings.
 - What is  : to discuss a. your development  b. future expectations c. goal , progress & obstacles d. current/Previous 1:1 action items d. roadblocks/support needed/soft escalations e.lessons learned.
 - Urgency: For any pressing needs, do not wait for 1:1 
